@@ -13,7 +13,7 @@
             background-color: #000000;
             color: #FFFFFF;
             text-align: center;
-	    background-image: URL("<?php printf(dog()); ?>");
+	    background-image: URL("<?php echo dog(); ?>");cho
 	    background-repeat: no-repeat;
 	    background-size: cover;
         }
